@@ -4,5 +4,4 @@
 
 <img width="1287" alt="Screenshot 2023-12-23 at 11 17 37 PM" src="https://github.com/hyungjin0105/Project_5_PracticalClass/assets/122345011/c53e52a7-9797-425e-b552-6df2d9dcf956">
 
-<img width="1492" alt="Screenshot 2023-12-23 at 11 21 47 PM" src="https://github.com/hyungjin0105/Project_5_PracticalClass/assets/122345011/48c2cadf-6ee8-4d3f-babd-bbc765402b6c">
-
+<img width="1643" alt="Screenshot 2023-12-23 at 11 24 09 PM" src="https://github.com/hyungjin0105/Project_5_PracticalClass/assets/122345011/0e002e20-e410-47ee-8b15-2145f9932ec9">
