@@ -6,7 +6,7 @@
 
 <h2>Functions</h2>
 <h2>Login</h2>
-![login](https://github.com/hyungjin0105/Project_5_PracticalClass/assets/122345011/84ad95a7-045f-4c7d-8180-5cab2dd8a0d0)
+![login](https://github.com/hyungjin0105/Project_5_PracticalClass/assets/122345011/e5e8253c-6210-4d43-a70f-d25c22786c52)
 <h2>Main</h2>
 ![main](https://github.com/hyungjin0105/Project_5_PracticalClass/assets/122345011/492766ba-b29e-4327-b373-74f1ec355cbf)
 <h2>View Post</h2>
